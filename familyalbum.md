@@ -1,4 +1,4 @@
-# DigitalCrafts 922 Photo Album
+# DigitalCrafts 9/22/2020 Photo Album
 
 ## Students
 
