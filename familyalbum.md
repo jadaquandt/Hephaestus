@@ -10,7 +10,9 @@
 
 ### Hannelore
 
-### Chad 
+### Chad
+
+![alt text] (./assets/chad.jpeg)
 
 ## Instructors
 
