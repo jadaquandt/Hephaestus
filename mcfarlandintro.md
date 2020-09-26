@@ -36,7 +36,7 @@ This is generally a tough question to answer, but I will give it the old college
 
      * __Green__
      * Recycle almost everything
-     * Support ecological causes
+     * Support ecological causes        
      * Strive to keep the earth healthy  
 
    * __Geek__
@@ -70,3 +70,7 @@ This is generally a tough question to answer, but I will give it the old college
    Many things - a complex individual with a past, present, and future.  This I have in common with all of humanity.  I look forward to learning more about my classmates and the DigitalCrafts team, and I look forward to learning more about myself along the journey.
 
    Peace
+
+   PS.  Here's an image of my ugly mug.
+
+   ![Larry McFarland Pic](larry.jpg)
