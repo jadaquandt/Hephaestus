@@ -1,24 +1,4 @@
-# DigitalCrafts 9/22/2020 Photo Album
-
-## Students
-
-### Matt Brown
-
-### Rashad
-
-### Domineke Beard
-
-### Hannelore
-
-### Chad
-
-### Larry
-
 # <div align="center">Who am I?</div>
-
-PS.  Here's an image of my ugly mug.
-
-![Larry McFarland Pic](larry.jpg)
 ***
 This is generally a tough question to answer, but I will give it the old college try.
 
@@ -33,7 +13,6 @@ This is generally a tough question to answer, but I will give it the old college
    * Veteran
    * Widower
    * Introvert
-   * Green
    * Geek
    * Philosopher
    * Punster
@@ -54,11 +33,6 @@ This is generally a tough question to answer, but I will give it the old college
      * Love working from home
      * Generally prefer my six cats to people (present company excluded)
 
-     * __Green__
-     * Recycle almost everything
-     * Support ecological causes        
-     * Strive to keep the earth healthy  
-
    * __Geek__
      * Makes me a good fit for this program
      * Have a lot of tech
@@ -67,7 +41,7 @@ This is generally a tough question to answer, but I will give it the old college
    * __Philosopher__
      * Love to find the meaning of things when possible
      * Like to explore others' frames of reference
-     * Believe in equity, equality, and humane treatment of all others
+     * Believe in equity, equality, and humane treatment of others
 
    * __Punster__
      * Expect many groaners!
@@ -90,9 +64,3 @@ This is generally a tough question to answer, but I will give it the old college
    Many things - a complex individual with a past, present, and future.  This I have in common with all of humanity.  I look forward to learning more about my classmates and the DigitalCrafts team, and I look forward to learning more about myself along the journey.
 
    Peace
-
-## Instructors
-
-### Dre Taylor
-
-### Andy Schmidt

@@ -1,24 +1,4 @@
-# DigitalCrafts 9/22/2020 Photo Album
-
-## Students
-
-### Matt Brown
-
-### Rashad
-
-### Domineke Beard
-
-### Hannelore
-
-### Chad
-
-### Larry
-
 # <div align="center">Who am I?</div>
-
-PS.  Here's an image of my ugly mug.
-
-![Larry McFarland Pic](larry.jpg)
 ***
 This is generally a tough question to answer, but I will give it the old college try.
 
@@ -91,8 +71,6 @@ This is generally a tough question to answer, but I will give it the old college
 
    Peace
 
-## Instructors
+   PS.  Here's an image of my ugly mug.
 
-### Dre Taylor
-
-### Andy Schmidt
+   ![Larry McFarland Pic](larry.jpg)
