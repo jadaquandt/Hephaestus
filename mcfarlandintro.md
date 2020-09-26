@@ -13,6 +13,7 @@ This is generally a tough question to answer, but I will give it the old college
    * Veteran
    * Widower
    * Introvert
+   * Green
    * Geek
    * Philosopher
    * Punster
@@ -33,6 +34,11 @@ This is generally a tough question to answer, but I will give it the old college
      * Love working from home
      * Generally prefer my six cats to people (present company excluded)
 
+     * __Green__
+     * Recycle almost everything
+     * Support ecological causes
+     * Strive to keep the earth healthy  
+
    * __Geek__
      * Makes me a good fit for this program
      * Have a lot of tech
@@ -41,7 +47,7 @@ This is generally a tough question to answer, but I will give it the old college
    * __Philosopher__
      * Love to find the meaning of things when possible
      * Like to explore others' frames of reference
-     * Believe in equity, equality, and humane treatment of others
+     * Believe in equity, equality, and humane treatment of all others
 
    * __Punster__
      * Expect many groaners!
