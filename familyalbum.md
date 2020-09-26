@@ -15,6 +15,10 @@
 ### Larry
 
 # <div align="center">Who am I?</div>
+
+PS.  Here's an image of my ugly mug.
+
+![Larry McFarland Pic](larry.jpg)
 ***
 This is generally a tough question to answer, but I will give it the old college try.
 
@@ -86,10 +90,6 @@ This is generally a tough question to answer, but I will give it the old college
    Many things - a complex individual with a past, present, and future.  This I have in common with all of humanity.  I look forward to learning more about my classmates and the DigitalCrafts team, and I look forward to learning more about myself along the journey.
 
    Peace
-
-   PS.  Here's an image of my ugly mug.
-
-   ![Larry McFarland Pic](larry.jpg)
 
 ## Instructors
 
