@@ -17,3 +17,6 @@
 ### Dre Taylor
 
 ### Andy Schmidt
+
+#### Hi evervybody this is me
+![Github URL](./photos/andy.jpg)
