@@ -12,18 +12,22 @@
 
 ### Chad
 
-<<<<<<< HEAD
 ![alt text](./assets/chad.jpeg "Logo Title Text 1")
 
 - Hometown Goshen, IN
 - Lives Tampa, FL
 - Job Fire Alarm Tech
 
+
 I love to cook, most of my best meals are Italian type dishes, I also like to kayak i would like to do a overnighter at some point. I'm an obsessive sports fan mostly football and hockey, I never miss a Notre Dame football game. Lately F1 has jumped on my raidar though none of the drivers have gain my folloing yet. I have two cats Meatball and Bo, both were found as straies. Meatball was caught and was going to be a snip and release but ended up being a great cat and Bo was found as a kitten at the corner of Little rd and St rd 54.
-=======
+
 ### Larry
 
 # <div align="center">Who am I?</div>
+
+PS.  Here's an image of my ugly mug.
+
+![Larry McFarland Pic](larry.jpg)
 ***
 This is generally a tough question to answer, but I will give it the old college try.
 
@@ -95,11 +99,6 @@ This is generally a tough question to answer, but I will give it the old college
    Many things - a complex individual with a past, present, and future.  This I have in common with all of humanity.  I look forward to learning more about my classmates and the DigitalCrafts team, and I look forward to learning more about myself along the journey.
 
    Peace
-
-   PS.  Here's an image of my ugly mug.
-
-   ![Larry McFarland Pic](larry.jpg)
->>>>>>> larry's input
 
 ## Instructors
 
