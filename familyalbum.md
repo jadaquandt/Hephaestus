@@ -15,5 +15,6 @@
 ## Instructors
 
 ### Dre Taylor
+Dre was here
 
 ### Andy Schmidt
