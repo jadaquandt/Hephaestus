@@ -22,4 +22,4 @@ If successful, your terminal should look something like this
 
 Now check that the GitHub repo has successfully been cloned onto your local machine. Run `ls` and you should see a directory by the name of Hephaestus present. Enter that directory by running `cd Hephaestus`. 
 
-![List Dir](./assets/ls.png)
+![List Dir](/assets/ls.png)
