@@ -16,6 +16,8 @@
 
 ### Logan Blackstad
 
+![Profile - Logan](./assets/profile-logan-code.png)
+
 I am a DigitalCrafts DiR (Developer in Residence).  I am excited to help new DigitalCrafts students learn the fundamentals of web development!
 
 ## Instructors
