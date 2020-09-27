@@ -5,6 +5,8 @@
 ### Matt Brown
 
 ### Rashad
+Born and raised in Richmond, Va. I turned 30 years old on June 21st, and I haven't felt the same since! All jokes aside, I enjoy reading books on business, investing, and behavioral psychology. Thinking, Fast and Slow is one of my favorite books, I definitely recommend it to anyone that hasn't read it. Running is also a hobby of mine. I was preparing to run in my first marathon, but it was postponed due to COVID-19. Traveling is another hobby of mine, I enjoy visting new countries, and discovering diifferent foods and cultures. 
+![stlucia](assets/IMG_3024.jpg)
 
 ### Domineke Beard
 
@@ -12,6 +14,7 @@
 
 ### Chad
 
+<<<<<<< HEAD
 ![alt text](./assets/chad.jpeg "Logo Title Text 1")
 
 - Hometown Goshen, IN
@@ -20,6 +23,8 @@
 
 I love to cook, most of my best meals are Italian type dishes, I also like to kayak i would like to do a overnighter at some point. I'm an obsessive sports fan mostly football and hockey, I never miss a Notre Dame football game. Lately F1 has jumped on my raidar though none of the drivers have gain my folloing yet. I have two cats Meatball and Bo, both were found as straies. Meatball was caught and was going to be a snip and release but ended up being a great cat and Bo was found as a kitten at the corner of Little rd and St rd 54.
 
+=======
+>>>>>>> main
 ### Larry
 
 # <div align="center">Who am I?</div>
