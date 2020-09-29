@@ -96,6 +96,7 @@ This is generally a tough question to answer, but I will give it the old college
 ## Instructors
 
 ### Dre Taylor
+Dre was here
 
 ### Andy Schmidt
 
