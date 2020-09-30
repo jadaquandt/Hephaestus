@@ -123,8 +123,6 @@ This is generally a tough question to answer, but I will give it the old college
 Dre was here
 
 ### Andy Schmidt
-<<<<<<< HEAD
-=======
 
 #### Hi evervybody this is me
 ![Github URL](./photos/andy.jpg)
