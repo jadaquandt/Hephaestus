@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # DigitalCrafts 922 Photo Album
 
 ## Students
@@ -26,4 +23,3 @@ Its your Boy Sketch back at it again.
 ### Dre Taylor
 
 ### Andy Schmidt
->>>>>>> 268c43e7780ef89cec2333ba69bbe6638b1a89de
