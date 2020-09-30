@@ -18,7 +18,7 @@
 
 PS.  Here's an image of my ugly mug.
 
-![Larry McFarland Pic](larry.jpg)
+![Larry McFarland Pic](./photos/larry.jpg)
 ***
 This is generally a tough question to answer, but I will give it the old college try.
 
