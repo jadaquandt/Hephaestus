@@ -128,7 +128,3 @@ Dre was here
 
 #### Hi evervybody this is me
 ![Github URL](./photos/andy.jpg)
-<<<<<<< HEAD
->>>>>>> main
-=======
->>>>>>> main
