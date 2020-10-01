@@ -18,15 +18,15 @@
 
 #### So stuck at home, and in need for further education, i decided my best bet was to go to a technical college and get a degree in a certain trade. After careful consideration, i decided to tackle the adventure of Welding. Interesting enough, and would pay pretty well if i got a job in the field. So thats what i did for quite some time. But now, as i start to get a little bit older(33, but physical labor makes me feel like im about 55) Ive decided that all that hard work was okay when i was younger, but theres no way i can keep doing this until i retire. So i began to search for a better future, Thats when, My brother in law found DigitalCrafts. I watched him go from a basic job as a waiter, to a well paid, and job loving developer within a year. I was inspired. So i gathered the necessary resources, checked to see if i would be able to handle the material, and here I am. I couldnt be more excited for myself and my future. I'm very much looking forward to every part of this school, as well as what my future will hold if i strive, and apply myself.
 
-![Github URL](./assets/mattandparrot.jpg)
+![Github URL](./pictures/mattandparrot.jpg)
 
 ### Rashad
 Born and raised in Richmond, Va. I turned 30 years old on June 21st, and I haven't felt the same since! All jokes aside, I enjoy reading books on business, investing, and behavioral psychology. Thinking, Fast and Slow is one of my favorite books, I definitely recommend it to anyone that hasn't read it. Running is also a hobby of mine. I was preparing to run in my first marathon, but it was postponed due to COVID-19. Traveling is another hobby of mine, I enjoy visting new countries, and discovering diifferent foods and cultures. 
-![stlucia](assets/IMG_3024.jpg)
+![stlucia](pictures/IMG_3024.jpg)
 
 ### Domineke Beard
 Its your Boy Sketch back at it again. 
-![Domineke Beard](./assets/Domineke.JPG)
+![Domineke Beard](./pictures/Domineke.JPG)
 # Who is Domineke L Beard?
 ## A young **gamer**, an old **skater**, and a *midlife crisis* bound worker.
 ### As the title suggests who am I really? At 26 I am still a young man, and video games have always been my life. As a teenager I loved skateboarding, and my knees have never ~~forgiven~~ me for it. As an adult I have always worked hard to take care of myself and my ladies, but I can sense the midlife crisis on its way!!!
@@ -42,7 +42,7 @@ Its your Boy Sketch back at it again.
 
 PS.  Here's an image of my ugly mug.
 
-![Larry McFarland Pic](larry.jpg)
+![Larry McFarland Pic](./pictures/larry.jpg)
 ***
 This is generally a tough question to answer, but I will give it the old college try.
 
@@ -123,4 +123,4 @@ Dre was here
 ### Andy Schmidt
 
 #### Hi evervybody this is me
-![Github URL](./photos/andy.jpg)
+![Github URL](./pictures/andy.jpg)
