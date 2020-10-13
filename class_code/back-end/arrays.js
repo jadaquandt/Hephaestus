@@ -80,6 +80,7 @@ let Domineke = {
 }
 
 let flex2 = [Larry, Dre, Chad, Domineke, Hannelore, Logan, Matt, Luqman, Rashad];
+console.log("Students under 30");
 for(i = 0; i < flex2.length; i++) {
     if(flex2[i].age < 30) {
         console.log(flex2[i].name);
