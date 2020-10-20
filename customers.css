@@ -1,0 +1,17 @@
+input , label {
+    width: 150px;
+}
+
+.cont > p{
+    display: flex;
+    justify-content: start;
+}
+
+@media (max-width: 500px){
+    .cont > p{
+        flex-direction: column;
+    }
+    input{
+        width: 100%;
+    }
+}
