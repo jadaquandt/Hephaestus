@@ -1,0 +1,11 @@
+#title {
+    font-size: 30px;
+}
+
+.menu1 {
+    display:none;
+}
+
+.menu2 {
+    display:block;
+}
